@@ -3,7 +3,7 @@ Configuration Settings
 ### `Website` tab
 
 - `site_name` - The human-readable name of your website, e.g. "Harold's Shoelace Emporium"
-- `base_url` - The base url of your website, e.g. "http://www.haroldsshoelaces.com"
+- `base_url` - The base url of your website, e.g. https://faucetpay.io/api/v1/getbalance
 - `htmlhead` - The global HTML header for your website. Necessary because of javascript libraries that are loaded in by the server. This only needs to be basic meta-information such as:
 ```html
 <!DOCTYPE html>
